@@ -1,16 +1,54 @@
-## Hi there 👋
+Laura Rodríguez
+Junior AI / Machine Learning Engineer | Python Developer
 
-<!--
-**LauraRodriguez91/LauraRodriguez91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+--------------------------------------------------
 
-Here are some ideas to get you started:
+👋 Hi, I'm Laura
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Junior AI/ML developer focused on building practical
+applications using Python, Machine Learning and
+Generative AI.
+
+I have hands-on experience developing projects involving
+NLP, Computer Vision, predictive modelling, recommendation
+systems and AI-powered applications.
+
+Currently looking for opportunities as a Junior AI/ML
+Engineer, Python Developer or Junior Data/AI Specialist.
+
+--------------------------------------------------
+
+🧠 About Me
+
+🚀 Python developer focused on Artificial Intelligence
+🤖 Experience with Machine Learning and NLP
+👁️ Computer Vision with YOLO
+🧠 Generative AI and LLM APIs
+🌐 Flask applications and REST APIs
+🗄️ SQL and SQLite
+📊 Data analysis and model evaluation
+🔧 Git and GitHub
+
+--------------------------------------------------
+
+🛠️ Tech Stack
+
+Programming
+Python · SQL
+
+Machine Learning
+Scikit-learn · Pandas · NumPy
+
+AI
+NLP · Computer Vision · YOLO · LLMs · Generative AI
+
+Web & APIs
+Flask · REST APIs
+
+Databases
+SQLite
+
+Tools
+Git · GitHub · PyCharm
+
+--------------------------------------------------
