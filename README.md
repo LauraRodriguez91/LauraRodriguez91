@@ -22,7 +22,6 @@ Engineer, Python Developer or Junior Data/AI Specialist.
 🧠 About Me
 
 🚀 Python developer focused on Artificial Intelligence
-
 🤖 Experience with Machine Learning and NLP
 👁️ Computer Vision with YOLO
 🧠 Generative AI and LLM APIs
