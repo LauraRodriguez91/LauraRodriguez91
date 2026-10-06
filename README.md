@@ -8,7 +8,7 @@
 
 I have hands-on experience developing projects involving **NLP, Computer Vision, predictive modelling, recommendation systems** and **AI-powered applications**.
 
-🌍 Spanish (native) · English (fluent) · Based in the Canary Islands (Spain) · Open to remote
+🌍 Spanish (native) · English (C1) · Based in the Canary Islands (Spain) · Open to remote
 
 🔭 Currently building a **logistics toolkit application**.
 
