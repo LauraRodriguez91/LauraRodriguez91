@@ -10,7 +10,7 @@ I have hands-on experience developing projects involving **NLP, Computer Vision,
 
 🌍 Spanish (native) · English (C1) · Based in the Canary Islands (Spain) · Open to remote
 
-🔭 Currently building a **logistics toolkit application**.
+🔭 Currently building a **SmartWarehouse AI with Yolo & Mistral** for logistic companies.
 
 📫 Looking for opportunities as a **Junior AI/ML Engineer**, **Python Developer** or **Junior Data/AI Specialist**.
 
