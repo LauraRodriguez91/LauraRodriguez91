@@ -16,8 +16,8 @@ I have hands-on experience developing projects involving **NLP, Computer Vision,
 
 - 🚀 Python developer focused on Artificial Intelligence
 - 🤖 Experience with Machine Learning and NLP
-- 👁️ Computer Vision with YOLO
-- 🧠 Generative AI and LLM APIs
+- 👁️ Computer Vision
+- 🧠 Generative AI and LLM 
 - 🌐 Flask applications and REST APIs
 - 🗄️ SQL and SQLite
 - 📊 Data analysis and model evaluation
