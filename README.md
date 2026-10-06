@@ -8,7 +8,11 @@
 
 I have hands-on experience developing projects involving **NLP, Computer Vision, predictive modelling, recommendation systems** and **AI-powered applications**.
 
-📫 Currently looking for opportunities as a **Junior AI/ML Engineer**, **Python Developer** or **Junior Data/AI Specialist**.
+🌍 Spanish (native) · English (fluent) · Based in the Canary Islands (Spain) · Open to remote
+
+🔭 Currently building a **logistics toolkit application**.
+
+📫 Looking for opportunities as a **Junior AI/ML Engineer**, **Python Developer** or **Junior Data/AI Specialist**.
 
 ---
 
@@ -16,7 +20,7 @@ I have hands-on experience developing projects involving **NLP, Computer Vision,
 
 - 🚀 Python developer focused on Artificial Intelligence
 - 🤖 Experience with Machine Learning and NLP
-- 👁️ Computer Vision
+- 👁️ Computer Vision 
 - 🧠 Generative AI and LLM 
 - 🌐 Flask applications and REST APIs
 - 🗄️ SQL and SQLite
@@ -34,3 +38,20 @@ I have hands-on experience developing projects involving **NLP, Computer Vision,
 | **Web & APIs** | Flask · REST APIs |
 | **Databases** | SQLite |
 | **Tools** | Git · GitHub · PyCharm |
+
+---
+
+## 🎓 Education
+
+**Artificial Intelligence Specialization** — Tokio School  
+*Sep 2025 – Sep 2026*
+
+**Python Programming** — Tokio School  
+*Sep 2024 – May 2026*
+
+---
+
+## 📫 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-rodr%C3%ADguez-b862b5232/)
+[![Email](https://img.shields.io/badge/Email-c39bff?style=for-the-badge&logo=gmail&logoColor=white)](mailto:laurarodriguezmarin91@gmail.com)
