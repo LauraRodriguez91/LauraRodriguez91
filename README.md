@@ -51,6 +51,20 @@ I have hands-on experience developing projects involving **NLP, Computer Vision,
 
 ---
 
+## 🚀 Featured Projects
+
+| 🎮 **[Game Match](https://github.com/LauraRodriguez91/game-match)** 
+| Video game recommender system that suggests games based on user ratings and similarity between players. 
+| Python · Scikit-learn · Pandas · NumPy |
+
+| 🍿 **[Animeflix](https://github.com/LauraRodriguez91/animeflix)** 
+| Anime recommendation app that helps users discover new series based on their tastes. 
+| Python · Scikit-learn · Pandas · Flask |
+
+> 🚧 Both projects are currently in active development.
+
+---
+
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-rodr%C3%ADguez-b862b5232/)
